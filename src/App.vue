@@ -1,10 +1,9 @@
 <script setup>
 
-import NavBar from "@/components/NavBar.vue";
+
+import HomePage from "@/pages/HomePage.vue";
 </script>
 
 <template>
-  <div class="bg-custom-bg bg-cover bg-center h-screen">
-    <NavBar/>
-  </div>
+  <HomePage/>
 </template>
